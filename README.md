@@ -59,7 +59,7 @@ src/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/ProductsList-aiquefome.git
+git clone https://github.com/MateusCastro2203/aiqfome-test
 cd ProductsList-aiquefome
 ```
 
